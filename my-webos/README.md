@@ -12,11 +12,11 @@ This project brings back the nostalgic desktop experience with apps like:
 
 ## 📸 Screenshots
 
-### Desktop View
-![Desktop Screenshot](public/Screenshot1.png)
+<p float="left">
+  <img src="public/Screenshot1.png" width="400"/>
+  <img src="public/Screenshot2.png" width="400"/>
+</p>
 
-### Calculator App
-![Calculator Screenshot](public/Screenshot2.png)
 
 ---
 
