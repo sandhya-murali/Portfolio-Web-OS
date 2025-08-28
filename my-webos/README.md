@@ -12,11 +12,11 @@ This project brings back the nostalgic desktop experience with apps like:
 
 ## 📸 Screenshots
 
-<p float="left">
-  <img src="public/Screenshot1.png" width="400"/>
-  <img src="public/Screenshot2.png" width="400"/>
-</p>
 
+![Desktop Screenshot](public/Screenshot1.png)
+
+
+![Calculator Screenshot](public/Screenshot2.png)
 
 ---
 
@@ -25,3 +25,10 @@ This project brings back the nostalgic desktop experience with apps like:
 - **[Vite](https://vitejs.dev/)** (fast build tool)  
 - **[React95](https://github.com/react95-io/React95)** (retro UI components)  
 - **[Piston API](https://github.com/engineer-man/piston)** (for running Python code)  
+
+---
+
+## 🙌 Inspiration
+This project was inspired by [Y2KOS](https://codingkatty.github.io/y2kos/) —  
+a retro web desktop experience that captures the nostalgia of classic operating systems.  
+I wanted to recreate a similar vibe with a Windows 95 look using **React95** and my own apps.
